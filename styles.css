@@ -16,7 +16,7 @@ body{
     padding-bottom: 10%;
 }
 .first-banner-img{
-    width: 200%;
+    width: 50%;
 }
 span{
     color: orange;
@@ -29,4 +29,33 @@ h1{
 }
 .top-banner{
     display: flex;
+}
+.second-banner{
+    display: flex;
+    padding-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    
+}
+.second-part{
+    width: 100%;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.third-part{
+    display: flex;
+}
+.third-div{
+width: 100%;
+padding-left: 10%;
+padding-right: 10%;
+padding-bottom: 10%;
+padding-top: 10%;
+}
+h2{
+    font-size: 40px;
+}
+.another-div{
+    border-image-width: 100%;
 }
